@@ -7,7 +7,7 @@ I build things at the intersection of machine learning and real products.
 ---
 
 ## 🔬 Research
-**FAME Benchmark** — co-authored an LLM evaluation benchmark accepted to the ICLR 2025 Workshop Logical Reasoning of Large Language Models, in collaboration with researchers from Algoverse. Evaluated GPT-4.1, Gemini 2.5 Pro, Claude 3.5 Sonnet, LLaMA 4, and Qwen 3 on logical reasoning under false mathematical facts.
+**FAME Benchmark** — co-authored an LLM evaluation benchmark, in collaboration with researchers from Algoverse. Evaluated GPT-4.1, Gemini 2.5 Pro, Claude 3.5 Sonnet, LLaMA 4, and Qwen 3 on logical reasoning under false mathematical facts.
 
 ---
 
