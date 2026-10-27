@@ -14,7 +14,6 @@ I build things at the intersection of machine learning and real products.
 ## 🛠️ Projects
 - **[Film Compass](https://github.com/loganongithub/film-compass)** — ML-powered movie discovery app. 5,000+ films embedded, clustered, and visualized as an interactive scatter plot using GPT-4o-mini, `mxbai-embed-large-v1`, Leiden clustering, and UMAP.
 - **[Cuisync](https://github.com/loganongithub/cuisync)** — iOS app with 200+ downloads. Voice-driven recipe assistant built with Faster Whisper and FastAPI.
-- **[FAME](https://github.com/loganongithub/FAME-research-paper)** — LLM benchmark for evaluating reasoning under false mathematical facts.
 
 ---
 
